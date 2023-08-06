@@ -1,0 +1,8 @@
+C:\Users\Carl\Desktop\RTR2022\DX11_CS3S664_Tutorial_16_Part1 - Sln\Debug\DX11Proj.exe
+C:\Users\Carl\Desktop\RTR2022\DX11_CS3S664_Tutorial_16_Part1 - Sln\Debug\DX11Proj.pdb
+C:\Users\cdjones1\Desktop\RTR2022\DX11_CS3S664_Tutorial_16_Part1 - Sln(1)\DX11_CS3S664_Tutorial_16_Part1 - Sln\Debug\DX11Proj.exe
+C:\Users\wojna\Documents\PersonalBackedUp\university\term 2\Real-Time Rendering Techniques\DirectX\week16\DX11_CS3S664_Tutorial_16_Part1 - Sln\Debug\DX11Proj.exe
+C:\Users\YoungOne\Documents\PersonalBackedUp\university\term 2\Real-Time Rendering Techniques\DirectX\Week17\DX11_CS3S664_Tutorial_16_Part1 - Sln\Debug\DX11Proj.exe
+C:\Users\YoungOne\Documents\PersonalBackedUp\university\term 2\Real-Time Rendering Techniques\DirectX\week18\DX11_CS3S664_Tutorial_16_Part1 - Sln\Debug\DX11Proj.exe
+C:\Users\YoungOne\Documents\PersonalBackedUp\university\term 2\Real-Time Rendering Techniques\DirectX\Assimgment\Assigment\DX11_CS3S664 - Completed\Debug\DX11Proj.exe
+C:\Users\YoungOne\Documents\PersonalBackedUp\university\term 2\Real-Time Rendering Techniques\DirectX\Assimgment\Assigment\DX11_CS3S664\Debug\DX11Proj.exe
